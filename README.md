@@ -89,4 +89,42 @@ A dice-based strategy game that reinforces addition, subtraction and mathematica
 
 ---
 
-**Portfolio focus:** iPad application engineering, interactive UI development, touch-based gameplay, educational application design, multimedia integration and game-state management.
+## Technology Stack
+
+The applications were primarily developed using native iOS technologies.
+
+- **Programming Language:** Objective-C
+- **UI Framework:** UIKit
+- **Monetization:** In-App Purchase integration
+- **Device Capabilities:** Accelerometer and motion-based interactions
+- **Platform:** Apple iPad
+
+These projects demonstrate hands-on experience building native iPad applications, interactive user interfaces, educational gameplay and device-integrated experiences.
+
+
+### Freemium Content Model & In-App Purchases
+
+The Gazzili games collection featured approximately six educational subgames or topic-based experiences.
+
+- Provided free access to the first game/topic as an introduction.
+- Kept the remaining games locked behind an In-App Purchase.
+- Enabled users to unlock additional educational content through purchases.
+- Implemented a free-to-paid content access model within the application.
+
+**Monetization model:** Freemium with In-App Purchase-based content unlocking.
+
+## Multilingual Localization & Audio Asset Management
+
+The Gazzili educational games supported **10 languages**, providing localized learning experiences for children across different regions.
+
+Key capabilities:
+
+- Supported localization across 10 languages.
+- Bundled English language assets with the application by default.
+- Allowed users to change the application language through the in-app menu.
+- Checked whether the selected language's localized assets had already been downloaded.
+- Downloaded the required language-specific assets when they were not available locally.
+- Integrated localized voice/audio assets to support narrated learning experiences.
+
+**Engineering focus:** Multilingual localization, language selection, conditional asset downloads and localized audio integration.
+
