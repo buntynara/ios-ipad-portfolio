@@ -8,6 +8,7 @@ The applications were developed primarily with native iOS technologies:
 
 - **Programming language:** Objective-C
 - **UI framework:** UIKit
+- **Game framework:** Cocos2d (used in Baseball Multiplication, Monster Squeeze, and Tric-Trac)
 - **Platform:** Apple iPad
 - **Additional capabilities:** In-App Purchases and accelerometer integration, where applicable
 
@@ -59,7 +60,8 @@ An interactive science application introducing foundational concepts such as pla
 
 ### 4. Everyday Mathematics – Baseball Multiplication
 
-**Category:** Educational Math Game
+**Category:** Educational Math Game  
+**Technologies:** Objective-C, Cocos2d
 
 A baseball-themed multiplication game based on the Everyday Mathematics curriculum, helping students practise multiplication facts through competitive gameplay.
 
@@ -74,7 +76,8 @@ A baseball-themed multiplication game based on the Everyday Mathematics curricul
 
 ### 5. Everyday Mathematics – Monster Squeeze
 
-**Category:** Number Sense and Estimation Game
+**Category:** Number Sense and Estimation Game  
+**Technologies:** Objective-C, Cocos2d
 
 An interactive number-line game that develops number sense, estimation, and logical reasoning through a hidden-number guessing challenge.
 
@@ -88,7 +91,8 @@ An interactive number-line game that develops number sense, estimation, and logi
 
 ### 6. Everyday Mathematics – Tric-Trac
 
-**Category:** Mathematical Strategy Game
+**Category:** Mathematical Strategy Game  
+**Technologies:** Objective-C, Cocos2d
 
 A dice-based strategy game that reinforces addition, subtraction, and mathematical reasoning through number-matching challenges.
 
